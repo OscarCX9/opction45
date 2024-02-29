@@ -1,0 +1,64 @@
+font.t1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: azure;
+}
+font.t2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: azure;
+}
+a{
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+color: black;
+font-size: 15px;
+}
+a:hover{
+    background: #a59c9c;
+}
+a:active{
+    color: azure;
+}
+h2{
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input.a{
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+input.r{
+    height: 30px;
+    width: 500px;
+    font-size: 15px;
+}
+input.ar{
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+font.t3{
+    color: black;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button.fi{
+    width: 50px; 
+  height: 25px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: blue;
+}
+button.fi:hover{
+    background: #10c2ee;
+}
+button.fi:active{
+    color: azure;
+}

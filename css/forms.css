@@ -1,0 +1,10 @@
+button.f{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #5037db;
+}
+button:active{
+    background: #37b0e9;
+}
+button:hover{
+    color: azure;
+}
